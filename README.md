@@ -147,7 +147,3 @@ corporate-connect/
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-
----
-
-> _Corporate Connect — Empowering every role with data, intelligence, and seamless navigation._
